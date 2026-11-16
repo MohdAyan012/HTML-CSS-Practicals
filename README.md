@@ -14,3 +14,4 @@ Open any `LabN/index.html` file in a browser. Replace `YOUR_ROLL_NUMBER` in the 
 
 ## Screenshot note
 The included PNGs are representative preview images generated for the assignment pages. If your instructor requires proof of actual execution, open each HTML file in your browser and replace the preview with your own screenshot.
+# HTML-CSS-Practicals
